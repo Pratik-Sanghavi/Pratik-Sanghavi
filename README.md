@@ -11,4 +11,4 @@ I am Pratik Sanghavi, a 22 year old data science enthusiast from Mumbai, India. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikSangh&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaiwalyakopakar.PratikSangh)
+![VisitorCount](https://profile-counter.glitch.me/{PratikSangh}/count.svg)
