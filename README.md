@@ -1,6 +1,6 @@
 ## Hi there!! Pleased to make your acquiantance
 
-I am Pratik Sanghavi, a 23 year old data science enthusiast from Mumbai, India. I use data to unravel new perspectives on existing paradigms. I am open to collaborating on projects and ideas that uncover novel approaches and open avenues for adding value to people's lives. I look forward to connecting with you on:<br>
+I am Pratik Sanghavi, a 23 year old machine learning engineer from Mumbai, India. I use data to unravel new perspectives on existing paradigms. I am open to collaborating on projects and ideas that uncover novel approaches and open avenues for adding value to people's lives. I look forward to connecting with you on:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-PratikSanghavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/pratik-sanghavi-62a571154) <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-sanghavipratikr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanghavipratikr@gmail.com)](mailto:sanghavipratikr@gmail.com) <br>
