@@ -4,13 +4,23 @@
 <br>
 I'm a 23 year old machine learning engineer from Mumbai, India. I use data to unravel new perspectives on existing paradigms. I am open to collaborating on projects and ideas that uncover novel approaches and open avenues for adding value to people's lives. 
 <!--  View my resume **[here](./My_Documents/Pratik_Sanghavi_Resume.pdf)**! -->
-[![Pratik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PratikSangh&theme=xcode)](https://git.io/PratikSangh)
-|-|-|
-|-|-|
-|![Github Stats](https://github-readme-stats.vercel.app/api?username=PratikSangh&count_private=true&show_icons=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikSangh&hide=TeX&layout=compact)|
-> Once the why becomes clear, the how is easy<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikSangh)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p align="centre">
+ 
+ <div align = "center">
+  
+  <a href="https://github.com/PratikSangh" title="Redirect to Pratik's GitHub">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PratikSangh&count_private=true&show_icons=true&include_all_commits=true" /></a>
+
+  <a href="https://github.com/PratikSangh" title="Redirect to Pratik's GitHub">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikSangh&hide=TeX&layout=compact" /></a>
+  </div>
+</p>
+
+<!-- > Once the why becomes clear, the how is easy<br> -->
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikSangh)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 I look forward to connecting with you on:<br>
 <p align="left">
