@@ -9,17 +9,17 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to un
  
  <div align = "center">
   
-  <a href="https://github.com/PratikSangh" title="Redirect to Pratik's GitHub">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PratikSangh&count_private=true&show_icons=true&include_all_commits=true" /></a>
+  <a href="https://github.com/Pratik-Sanghavi" title="Redirect to Pratik's GitHub">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratik-Sanghavi&count_private=true&show_icons=true&include_all_commits=true" /></a>
 
-  <a href="https://github.com/PratikSangh" title="Redirect to Pratik's GitHub">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikSangh&hide=TeX&layout=compact" /></a>
+  <a href="https://github.com/Pratik-Sanghavi" title="Redirect to Pratik's GitHub">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Sanghavi&hide=TeX&layout=compact" /></a>
   </div>
 </p>
 
 <!-- > Once the why becomes clear, the how is easy<br> -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikSangh)](https://github.com/DenverCoder1/github-readme-streak-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Sanghavi)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 I look forward to connecting with you on:<br>
