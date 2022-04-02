@@ -26,5 +26,6 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
 <p align="left">
 <a href="https://www.linkedin.com/in/pratik-sanghavi-62a571154" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Pratik-Sanghavi" height="30" width="30" /></a>
 <a href="mailto:sanghavipratikr@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
-![VisitorCount](https://profile-counter.glitch.me/{PratikSangh}/count.svg) -->
+</p> -->
+
+![VisitorCount](https://profile-counter.glitch.me/{PratikSangh}/count.svg)
