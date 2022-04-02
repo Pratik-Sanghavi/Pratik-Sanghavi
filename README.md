@@ -21,11 +21,22 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Sanghavi)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+## Certifications:
+<div id="certifications">
+ <span>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect" width="200"/>
+  &emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/snowpro-core-certification.png" alt="SnowPro Core Certified" width="200"/>
+  &emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/hands-on-essentials-data-warehouse.png" alt="SnowPro Hands On Essentials" width="200"/>
+ </span>
+</div>
 
-<!-- I look forward to connecting with you on:<br>
+I look forward to connecting with you on:<br>
 <p align="left">
-<a href="https://www.linkedin.com/in/pratik-sanghavi-62a571154" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Pratik-Sanghavi" height="30" width="30" /></a>
-<a href="mailto:sanghavipratikr@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p> -->
+<a href="https://www.linkedin.com/in/pratik-sanghavi-62a571154" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Pratik-Sanghavi" height="60" width="60" /></a>
+<a href="mailto:sanghavipratikr@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="60" width="60" /></a>
+</p>
 
 ![VisitorCount](https://profile-counter.glitch.me/{PratikSangh}/count.svg)
