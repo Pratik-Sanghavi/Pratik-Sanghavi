@@ -25,9 +25,13 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
 <div id="certifications">
  <span>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect" width="200"/>
+  <a href = "https://www.credly.com/badges/8bc678f4-bb9c-4339-abb1-61ba4e64349b/public_url">
+   <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect" width="200"/>
+  </a>
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/snowpro-core-certification.png" alt="SnowPro Core Certified" width="200"/>
+  <a href = "https://www.credly.com/badges/5fa44ab2-bd8b-472c-b0af-71d341957caf/public_url">
+   <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/snowpro-core-certification.png" alt="SnowPro Core Certified" width="200"/>
+  </a>
   &emsp;&emsp;&emsp;&emsp;
 <!--   <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/hands-on-essentials-data-warehouse.png" alt="SnowPro Hands On Essentials" width="200"/> -->
  </span>
