@@ -29,7 +29,7 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
   &emsp;&emsp;&emsp;&emsp;
   <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/snowpro-core-certification.png" alt="SnowPro Core Certified" width="200"/>
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/hands-on-essentials-data-warehouse.png" alt="SnowPro Hands On Essentials" width="200"/>
+<!--   <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/hands-on-essentials-data-warehouse.png" alt="SnowPro Hands On Essentials" width="200"/> -->
  </span>
 </div>
 
