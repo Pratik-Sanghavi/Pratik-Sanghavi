@@ -23,7 +23,7 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
 ## Certifications:
 <div id="certifications">
  <span>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <a href = "https://www.credly.com/badges/8bc678f4-bb9c-4339-abb1-61ba4e64349b/public_url">
    <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect" width="200"/>
   </a>
