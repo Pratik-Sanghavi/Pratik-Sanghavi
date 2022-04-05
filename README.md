@@ -25,15 +25,15 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
  <span>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <a href = "https://www.credly.com/badges/8bc678f4-bb9c-4339-abb1-61ba4e64349b/public_url">
-   <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect" width="200"/>
+   <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect" width="125"/>
   </a>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <a href = "https://www.credly.com/badges/5fa44ab2-bd8b-472c-b0af-71d341957caf/public_url">
-   <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/snowpro-core-certification.png" alt="SnowPro Core Certified" width="200"/>
+   <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/snowpro-core-certification.png" alt="SnowPro Core Certified" width="125"/>
   </a>
  </span>
 </div>
-
+<br><br>
 I look forward to connecting with you on:<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/pratik-sanghavi-62a571154" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Pratik-Sanghavi" height="60" width="60" /></a>
