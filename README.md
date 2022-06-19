@@ -1,6 +1,6 @@
 # Hi there 👋, I am Pratik Sanghavi
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236cc644&center=true&vCenter=true&lines=Machine+Learning+Engineer;Fiddler+%F0%9F%8E%BB;Storyteller)](https://git.io/typing-svg)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236cc644&center=true&vCenter=true&lines=Machine+Learning+Engineer;Fiddler+%F0%9F%8E%BB;Open Water Diver;Storyteller)](https://git.io/typing-svg)
 <br>
 I'm a 23 year old machine learning engineer from Mumbai, India. I use data to tell a story. I am open to collaborating on projects and ideas that uncover novel approaches and open avenues for adding value to people's lives. 
 
