@@ -33,10 +33,12 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
       <a href = "https://www.credly.com/badges/5fa44ab2-bd8b-472c-b0af-71d341957caf/public_url">
         <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/snowpro-core-certification.png" alt="SnowPro Core Certified" width="125"/>
       </a>
-      <a href = "https://www.credential.net/4447df53-a68d-4d92-adc2-5a4cc6b037d2">
-       <img src="" alt="TensorFlow Developer Certification" width="125"/>
-      </a>
     </td>
+    <td width = 500em align="center">
+      <a href = "https://www.credential.net/4447df53-a68d-4d92-adc2-5a4cc6b037d2">
+       <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/TensorFlow_Developer.png" alt="TensorFlow Developer Certification" width="125"/>
+     </td>
+      </a>
    </tr>
    </table>
 </div>
