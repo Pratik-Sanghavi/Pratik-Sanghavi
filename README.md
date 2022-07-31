@@ -44,7 +44,7 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
 </div>
 
  <div id="connect">
-  I look forward to connecting with you on:<br>
+  Lets connect<br>
   <p align="left">
    <a href="https://www.linkedin.com/in/pratik-sanghavi-62a571154" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Pratik-Sanghavi" height="60" width="60" /></a>
    <a href="mailto:sanghavipratikr@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="60" width="60" /></a>
