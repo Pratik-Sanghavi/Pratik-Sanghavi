@@ -50,4 +50,4 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
   </p>
  </div>
 
-![VisitorCount](https://profile-counter.glitch.me/{PratikSangh}/count.svg)
+<!-- ![VisitorCount](https://profile-counter.glitch.me/{PratikSangh}/count.svg)-->
