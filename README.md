@@ -1,6 +1,6 @@
-# Hi there 👋, I am Pratik Sanghavi
+# Hi there ![👋](https://tenor.com/bKQSx.gif)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236cc644&center=true&vCenter=true&lines=Machine+Learning+Engineer;Fiddler+%F0%9F%8E%BB;Open+Water+Diver;Storyteller)](https://git.io/typing-svg)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236cc644&center=true&vCenter=true&lines=Machine+Learning+Engineer;Fiddler+%F0%9F%8E%BB;Open+Water+Diver;Storyteller;I+am+Pratik+Sanghavi)](https://git.io/typing-svg)
 <br>
 I'm a 23 year old machine learning engineer from Mumbai, India. I use data to tell a story.
 <p align="centre">
@@ -43,8 +43,8 @@ I'm a 23 year old machine learning engineer from Mumbai, India. I use data to te
 </div>
 
  <div id="connect">
-  Lets connect<br>
-  <p align="left">
+  <h2>Lets connect</h2><br>
+  <p align="center">
    <a href="https://www.linkedin.com/in/pratik-sanghavi-62a571154" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Pratik-Sanghavi" height="60" width="60" /></a>
    <a href="mailto:sanghavipratikr@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="60" width="60" /></a>
   </p>
