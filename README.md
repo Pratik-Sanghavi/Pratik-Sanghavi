@@ -1,4 +1,5 @@
-# Hi there ![👋](https://tenor.com/bKQSx.gif)
+# Hi there 
+<!-- ![👋](https://tenor.com/bKQSx.gif) -->
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236cc644&center=true&vCenter=true&lines=Machine+Learning+Engineer;Fiddler+%F0%9F%8E%BB;Open+Water+Diver;Storyteller;I+am+Pratik+Sanghavi)](https://git.io/typing-svg)
 <br>
