@@ -13,12 +13,14 @@ I'm a 24 year old engineer from India. I truly believe that technology can serve
 
   <a href="https://github.com/Pratik-Sanghavi" title="Redirect to Pratik's GitHub">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Sanghavi&hide=TeX&layout=compact" /></a>
-  </div>
+ </div>
+ <br>
+ <div align = "center">
+  <img width = "70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Sanghavi" />
+ </div>
 </p>
-
+ 
 <!-- > Once the why becomes clear, the how is easy<br> -->
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Sanghavi)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## Certifications:
 <div id="certifications">
