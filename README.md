@@ -16,7 +16,7 @@ I'm a 24 year old engineer from India. I truly believe that technology can serve
  </div>
  <br>
  <div align = "center">
-  <img width = "70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Sanghavi" />
+  <img width = "50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Sanghavi" />
  </div>
 </p>
  
