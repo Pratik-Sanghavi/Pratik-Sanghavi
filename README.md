@@ -50,7 +50,7 @@ I'm a 24 year old engineer from India. I truly believe that technology can serve
   <p align="center">
    <a href="https://www.linkedin.com/in/pratik-sanghavi-62a571154" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Pratik-Sanghavi" height="60" width="60" /></a>
    <a href="mailto:sanghavipratikr@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="60" width="60" /></a>
-   <a href="pratiksanghavi.in" target="blank"><img align="center" src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/logo.png" height="60" width="60" /></a>
+   <a href="https://pratiksanghavi.in/" target="blank"><img align="center" src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/logo.png" height="60" width="60" /></a>
   </p>
  </div>
 
