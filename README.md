@@ -3,7 +3,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236cc644&center=true&vCenter=true&lines=Machine+Learning+Engineer;Fiddler+%F0%9F%8E%BB;Open+Water+Diver+🤿;Storyteller;I+am+Pratik+Sanghavi)](https://git.io/typing-svg)
 <br>
-I'm a 24 year old engineer from India. I truly believe that technology can serve as a medium to solve some of the most challenging problems plaguing the world. With my expertise in Machine Learning, I'm doing my bit towards bringing a change.
+I'm an engineer from Mumbai, India. I truly believe that technology can serve as a medium to solve some of the most challenging problems plaguing the world. With my expertise in Machine Learning, I'm doing my bit towards bringing a change.
 <p align="centre">
  
  <div align = "center">
