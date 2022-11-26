@@ -54,4 +54,4 @@ I'm an engineer from Mumbai, India. I truly believe that technology can serve as
   </p>
  </div>
 
-<!-- ![VisitorCount](https://profile-counter.glitch.me/{PratikSangh}/count.svg)-->
+![VisitorCount](https://profile-counter.glitch.me/{PratikSangh}/count.svg)
