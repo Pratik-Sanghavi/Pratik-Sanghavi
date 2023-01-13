@@ -4,7 +4,7 @@
 <br>
 I'm an engineer from Mumbai, India. I truly believe that technology can serve as a medium to solve some of the most challenging problems plaguing the world. With my expertise in Machine Learning, I'm doing my bit towards bringing a change.
 <p align="centre">
- 
+ <!--
  <div align = "center">
   
   <a href="https://github.com/Pratik-Sanghavi" title="Redirect to my GitHub">
@@ -13,7 +13,7 @@ I'm an engineer from Mumbai, India. I truly believe that technology can serve as
   <a href="https://github.com/Pratik-Sanghavi" title="Redirect to my GitHub">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Sanghavi&hide=TeX&layout=compact" /></a>
  </div>
- <br>
+ <br> -->
  <div align = "center">
   <img width = "50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Sanghavi" />
  </div>
