@@ -26,20 +26,25 @@ I'm an engineer from Mumbai, India. I truly believe that technology can serve as
   <table>
    <tr>
     <td width = 500em align="center">
+     <a href = "https://www.credly.com/badges/ad146397-a6ff-4d57-a096-a72dc0e0af50/public_url">
+      <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Fundamentals" width="125"/>
+     </a>
+    </td>
+    <td width = 500em align="center">
       <a href = "https://www.credly.com/badges/8bc678f4-bb9c-4339-abb1-61ba4e64349b/public_url">
         <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect" width="125"/>
       </a>
     </td>
     <td width = 500em align="center">
+      <a href = "https://www.credential.net/4447df53-a68d-4d92-adc2-5a4cc6b037d2">
+       <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/TensorFlow_Developer.png" alt="TensorFlow Developer Certification" width="125"/>
+       </a>
+     </td>
+    <td width = 500em align="center">
       <a href = "https://www.credly.com/badges/5fa44ab2-bd8b-472c-b0af-71d341957caf/public_url">
         <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/snowpro-core-certification.png" alt="SnowPro Core Certified" width="125"/>
       </a>
     </td>
-    <td width = 500em align="center">
-      <a href = "https://www.credential.net/4447df53-a68d-4d92-adc2-5a4cc6b037d2">
-       <img src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/TensorFlow_Developer.png" alt="TensorFlow Developer Certification" width="125"/>
-     </td>
-      </a>
    </tr>
    </table>
 </div>
