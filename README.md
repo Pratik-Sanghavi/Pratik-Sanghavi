@@ -57,5 +57,7 @@ I'm an engineer from Mumbai, India. I truly believe that technology can serve as
    <a href="https://pratiksanghavi.in/" target="blank"><img align="center" src="https://github.com/Pratik-Sanghavi/Pratik-Sanghavi/blob/main/My_Documents/logo.png" height="60" width="60" /></a>
   </p>
  </div>
-
-![VisitorCount](https://profile-counter.glitch.me/{PratikSangh}/count.svg)
+<hr>
+<div id="visitor_connect" align='center'>
+ <img src='https://profile-counter.glitch.me/Pratik-Sanghavi/count.svg'>
+</div>
