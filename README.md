@@ -15,10 +15,10 @@ I'm an engineer from Mumbai, India. I truly believe that technology can serve as
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Sanghavi&hide=TeX&layout=compact" /></a>
  </div>
  
-<!--  <br>
+<br>
  <div align = "center">
   <img width = "50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Sanghavi" />
- </div> -->
+ </div> 
 </p>
  
 <!-- > Once the why becomes clear, the how is easy<br> -->
