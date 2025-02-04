@@ -6,13 +6,15 @@ I'm an engineer from Mumbai, India. I truly believe that technology can serve as
 <p align="centre">
  
  <div align = "center">
-  
+
+  <!--
   <a href="https://github.com/Pratik-Sanghavi" title="Redirect to my GitHub">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratik-Sanghavi&count_private=true&show_icons=true&include_all_commits=true" /></a>
-
+  -->
   <a href="https://github.com/Pratik-Sanghavi" title="Redirect to my GitHub">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Sanghavi&hide=TeX&layout=compact" /></a>
  </div>
+ 
 <!--  <br>
  <div align = "center">
   <img width = "50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Sanghavi" />
