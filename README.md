@@ -2,7 +2,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236cc644&center=true&vCenter=true&lines=Engineer+🤖;Fiddler+%F0%9F%8E%BB;Diver+🤿🦈;Storyteller+📖;I+am+Pratik+Sanghavi)](https://git.io/typing-svg)
 <br>
-I'm a 2x founding engineer. I aim to build impact and use technology to solve problems at scale
+I aim to build impact and use technology to solve problems at scale
 <p align="centre">
  
  <div align = "center">
