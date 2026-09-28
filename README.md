@@ -11,9 +11,9 @@ I aim to build impact and use technology to solve problems at scale
   <a href="https://github.com/Pratik-Sanghavi" title="Redirect to my GitHub">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratik-Sanghavi&count_private=true&show_icons=true&include_all_commits=true" /></a>
   -->
-  <a href="https://github.com/Pratik-Sanghavi" title="Redirect to my GitHub">
+  <!--<a href="https://github.com/Pratik-Sanghavi" title="Redirect to my GitHub">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Sanghavi&hide=TeX&layout=compact" /></a>
- </div>
+ </div>-->
  
 <br>
  <div align = "center">
@@ -63,6 +63,6 @@ I aim to build impact and use technology to solve problems at scale
  
 <hr>
 
-<div id="visitor_connect" align='center'>
+<!--<div id="visitor_connect" align='center'>
  <img src='https://profile-counter.glitch.me/Pratik-Sanghavi/count.svg'>
-</div>
+</div>-->
